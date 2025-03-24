@@ -1,5 +1,5 @@
 # Welcome to Netflix Recommendation & Analysis App!
-This app was developed to provide an intuitive and effective film recommendation and analysis platform based on Netflix USA's catalog.
+This app was developed using Streamlit, in which an intuitive and effective film recommendation and analysis platform based on Netflix USA's catalog.
 And for analyzing Netflix's stock performance, based on its own produced content.
 
 Film Recommendation 🎥 page is an user friendly recommendation system for movies and TV shows that are avaiable on Netflix USA. Users can apply filters based on their preferences and receive the top 12 personalized recommendations.
